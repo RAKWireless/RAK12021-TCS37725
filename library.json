@@ -1,0 +1,32 @@
+{
+	"name": "RAKwireless RAK12021 TCS37725",
+	"version": "1.0.0",
+	"keywords": [
+		"LIN bus",
+		"TLE7259",
+		"RAKWireless",
+		"WisBlock",
+		"RAK13005"
+	],
+	"description": "RAKWireless library for the RAK12021 RGB Light Sensor with the TCS37725",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "clark.li@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Clark Li"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK12021-TCS37725"
+	},
+	"homepage": "https://rakwireless.com"
+}

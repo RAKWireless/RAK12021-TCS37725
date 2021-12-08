@@ -1,0 +1,25 @@
+#################################
+# Datatypes (KEYWORD1)
+#################################
+
+TCS3772	KEYWORD1
+
+##################################
+# Methods and Functions (KEYWORD2)
+##################################
+
+begin	KEYWORD2
+setClearLowThreshold	KEYWORD2
+setClearHighThreshold	KEYWORD2
+enableClearINT		KEYWORD2
+disableClearINT		KEYWORD2
+clearAllInterrupt	KEYWORD2
+getInterruptSrc		KEYWORD2
+getMeasurement		KEYWORD2
+autoGain			KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
+
+I2C_ADDRESS	LITERAL1
