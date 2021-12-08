@@ -11,7 +11,7 @@
 #ifndef __TCS3772_H__
 #define __TCS3772_H__
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <Wire.h>
 #include "stdint.h"
 
